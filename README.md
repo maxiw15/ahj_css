@@ -1,4 +1,4 @@
 # ahj_css
-https://maxiw15.github.io/ajs_css
+https://maxiw15.github.io/ahj_css
 
-![CI](https://github.com/maxiw15/ajs_css/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/maxiw15/ahj_css/actions/workflows/web.yml/badge.svg)
